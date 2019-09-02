@@ -51,8 +51,10 @@ body {
     margin: 0 40px;
     text-align: center;
     width: 200px; }
+    .second-section .card .card-body small {
+      font-size: 10px; }
     .second-section .card .card-text {
-      line-height: 20px; }
+      line-height: 15px; }
     .second-section .card .button-downloads .btn-android img,
     .second-section .card .button-downloads .btn-ios img {
       max-width: 48%; }
