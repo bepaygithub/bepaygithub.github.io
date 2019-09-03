@@ -55,9 +55,34 @@ body {
       font-size: 10px; }
     .second-section .card .card-text {
       line-height: 15px; }
+      .second-section .card .card-text .modal-button {
+        border: none;
+        background-color: transparent;
+        color: blue; }
     .second-section .card .button-downloads .btn-android img,
     .second-section .card .button-downloads .btn-ios img {
       max-width: 48%; }
+  .second-section .modal-container .modal-body {
+    text-align: left; }
+    .second-section .modal-container .modal-body ul {
+      padding: 0; }
+      .second-section .modal-container .modal-body ul li {
+        list-style: none;
+        margin-top: 30px; }
+        .second-section .modal-container .modal-body ul li p {
+          padding-top: 5px; }
+      .second-section .modal-container .modal-body ul .numberCircle {
+        font-weight: bold;
+        font-size: 14px;
+        float: left;
+        border-radius: 50%;
+        width: 36px;
+        height: 36px;
+        padding: 8px;
+        background: #297150;
+        text-align: center;
+        color: #fff;
+        margin-right: 5px; }
 
 .third-section {
   border: 1px solid transparent;
