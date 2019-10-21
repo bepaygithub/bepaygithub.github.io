@@ -44,6 +44,8 @@ body {
     display: flex;
     margin-bottom: 20px;
     width: 100%; }
+    .second-section .steps .step .text {
+      padding-top: 20px; }
   .second-section .card {
     border: none;
     margin: 0 40px;
@@ -59,7 +61,10 @@ body {
     flex-direction: column;
     align-items: center;
     color: #555; }
+    .second-section .first-container h1 {
+      padding: 20px 0 0 0; }
     .second-section .first-container .steps {
+      margin-top: 25px;
       display: flex;
       justify-content: center;
       align-items: center; }
