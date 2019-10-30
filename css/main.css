@@ -53,6 +53,30 @@ body {
     width: 200px; }
     .second-section .card .card-text {
       line-height: 20px; }
+    .second-section .card .container-modal .btn-modal {
+      padding: 0;
+      color: #0582e9; }
+    .second-section .card .container-modal .modal-body {
+      text-align: left; }
+      .second-section .card .container-modal .modal-body ul {
+        padding: 0; }
+        .second-section .card .container-modal .modal-body ul li {
+          list-style: none;
+          margin-top: 30px; }
+          .second-section .card .container-modal .modal-body ul li p {
+            padding-top: 5px; }
+        .second-section .card .container-modal .modal-body ul .numberCircle {
+          font-weight: bold;
+          font-size: 14px;
+          float: left;
+          border-radius: 50%;
+          width: 36px;
+          height: 36px;
+          padding: 8px;
+          background: #297150;
+          text-align: center;
+          color: #fff;
+          margin-right: 5px; }
     .second-section .card .button-downloads .btn-android img,
     .second-section .card .button-downloads .btn-ios img {
       max-width: 48%; }
